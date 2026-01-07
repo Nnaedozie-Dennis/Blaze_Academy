@@ -1,41 +1,3 @@
-// import React from "react";
-
-// const Contact = () => (
-//   <section id="contact" className="py-16 bg-white dark:bg-darkBg">
-//     <div className="container mx-auto px-4">
-//       <h2 className="text-3xl font-bold text-center text-primary dark:text-white mb-12">
-//         Get in Touch
-//       </h2>
-//       <div className="max-w-lg mx-auto">
-//         <div className="space-y-4">
-//           <input
-//             type="text"
-//             placeholder="Name"
-//             className="w-full p-3 rounded-lg bg-neutral dark:bg-darkNeutral text-gray-600 dark:text-gray-300"
-//           />
-//           <input
-//             type="email"
-//             placeholder="Email"
-//             className="w-full p-3 rounded-lg bg-neutral dark:bg-darkNeutral text-gray-600 dark:text-gray-300"
-//           />
-//           <textarea
-//             placeholder="Message"
-//             className="w-full p-3 rounded-lg bg-neutral dark:bg-darkNeutral text-gray-600 dark:text-gray-300"
-//             rows={5}
-//           ></textarea>
-//           <button className="w-full bg-secondary text-white px-6 py-3 rounded-full hover:bg-orange-600 transition">
-//             Send Message
-//           </button>
-//         </div>
-//       </div>
-//     </div>
-//   </section>
-// );
-
-// export default Contact;
-
-
-
 
 import React from "react";
 
@@ -49,15 +11,12 @@ const Contact = () => (
             Get in Touch with Us
           </h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-            {/* We’d love to hear from you! Whether you have questions about our
-            courses, need help with enrollment, or simply want to share
-            feedback, our team is here to support you. */}
             We’d love to hear from you! Whether you have questions about our
             courses, need help with enrollment, or simply want to share
-            feedback—our team is here to support you. At Blaze Academy, we
+            feedback, our team is here to support you. At Blaze Academy, we
             believe learning is a journey best taken together, and your voice
             helps us improve every step of the way. Don’t hesitate to reach
-            out—whether it’s a big question, a small concern, or just to say
+            out whether it’s a big question, a small concern, or just to say
             hello. We’re always happy to connect with you.
           </p>
           <div className="space-y-4">
